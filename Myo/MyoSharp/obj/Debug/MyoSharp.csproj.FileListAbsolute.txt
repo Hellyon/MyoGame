@@ -1,0 +1,7 @@
+D:\Clean VR Project\Myo\MyoSharp\obj\Debug\MyoSharp.csprojResolveAssemblyReference.cache
+D:\Clean VR Project\Myo\MyoSharp\bin\Debug\x64\myo.dll
+D:\Clean VR Project\Myo\MyoSharp\bin\Debug\x86\myo.dll
+D:\Clean VR Project\Myo\MyoSharp\bin\Debug\MyoSharp.dll
+D:\Clean VR Project\Myo\MyoSharp\bin\Debug\MyoSharp.pdb
+D:\Clean VR Project\Myo\MyoSharp\obj\Debug\MyoSharp.dll
+D:\Clean VR Project\Myo\MyoSharp\obj\Debug\MyoSharp.pdb
